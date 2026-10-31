@@ -1,0 +1,37 @@
+investor_id,product_id,product_name,asset_class,risk_score,weight,amount_inr,annual_expense_ratio,liquidity_days,lock_in_months
+INV01,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.4,120000.0,0.0,5.0,24.0
+INV01,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,120000.0,0.002,1.0,0.0
+INV01,PROD03,Short Duration Debt Fund,debt,2.0,0.2,60000.0,0.004,2.0,0.0
+INV02,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,80000.0,0.002,1.0,0.0
+INV02,PROD03,Short Duration Debt Fund,debt,2.0,0.4,80000.0,0.004,2.0,0.0
+INV02,PROD04,Diversified Corporate Bond Fund,debt,2.0,0.2,40000.0,0.0065,3.0,0.0
+INV03,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.333333,50000.0,0.002,1.0,0.0
+INV03,PROD03,Short Duration Debt Fund,debt,2.0,0.4,60000.0,0.004,2.0,0.0
+INV03,PROD04,Diversified Corporate Bond Fund,debt,2.0,0.266667,40000.0,0.0065,3.0,0.0
+INV04,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.4,200000.0,0.0,5.0,24.0
+INV04,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,200000.0,0.002,1.0,0.0
+INV04,PROD03,Short Duration Debt Fund,debt,2.0,0.2,100000.0,0.004,2.0,0.0
+INV05,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.4,40000.0,0.0,5.0,24.0
+INV05,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,40000.0,0.002,1.0,0.0
+INV05,PROD03,Short Duration Debt Fund,debt,2.0,0.2,20000.0,0.004,2.0,0.0
+INV06,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.4,320000.0,0.0,5.0,24.0
+INV06,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,320000.0,0.002,1.0,0.0
+INV06,PROD03,Short Duration Debt Fund,debt,2.0,0.2,160000.0,0.004,2.0,0.0
+INV07,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.4,400000.0,0.0,5.0,24.0
+INV07,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,400000.0,0.002,1.0,0.0
+INV07,PROD03,Short Duration Debt Fund,debt,2.0,0.2,200000.0,0.004,2.0,0.0
+INV08,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.4,80000.0,0.0,5.0,24.0
+INV08,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,80000.0,0.002,1.0,0.0
+INV08,PROD03,Short Duration Debt Fund,debt,2.0,0.2,40000.0,0.004,2.0,0.0
+INV09,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.4,600000.0,0.0,5.0,24.0
+INV09,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,600000.0,0.002,1.0,0.0
+INV09,PROD03,Short Duration Debt Fund,debt,2.0,0.2,300000.0,0.004,2.0,0.0
+INV10,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.4,240000.0,0.0,5.0,24.0
+INV10,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,240000.0,0.002,1.0,0.0
+INV10,PROD03,Short Duration Debt Fund,debt,2.0,0.2,120000.0,0.004,2.0,0.0
+INV11,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,0.0,0.002,1.0,0.0
+INV11,PROD03,Short Duration Debt Fund,debt,2.0,0.4,0.0,0.004,2.0,0.0
+INV11,PROD04,Diversified Corporate Bond Fund,debt,2.0,0.2,0.0,0.0065,3.0,0.0
+INV12,PROD02,Fixed-Term Deposit Plan,debt,1.0,0.2,800000.0,0.0,5.0,24.0
+INV12,PROD01,Liquid Cash Reserve Fund,cash,1.0,0.4,1600000.0,0.002,1.0,0.0
+INV12,PROD03,Short Duration Debt Fund,debt,2.0,0.4,1600000.0,0.004,2.0,0.0

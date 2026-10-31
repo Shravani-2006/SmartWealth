@@ -1,0 +1,13 @@
+investor_id,status,goal_label,target_inr,horizon_months,existing_investment_inr,monthly_sip_inr,weighted_return_pct,weighted_risk_score,weighted_expense_ratio_pct,estimated_annual_cost_inr,conservative_fv_inr,base_fv_inr,optimistic_fv_inr,gap_base_inr,liquid_allocation_inr,liquidity_need_inr,liquidity_ok,num_products,fallback_used,emergency_fund_months,warnings
+INV01,OK,Wedding expenses,1000000.0,24,300000.0,25000.0,6.36,1.2,0.16,480.0,940545.28,978610.58,1018526.48,-21389.42,300000.0,150000.0,True,3,False,6.0,None
+INV02,OK,Car purchase,800000.0,18,200000.0,30000.0,6.4,1.6,0.37,740.0,763653.03,785286.12,807660.68,-14713.88,200000.0,0.0,True,3,False,8.0,None
+INV03,OK,Home renovation,300000.0,15,150000.0,10000.0,6.53,1.667,0.4,600.0,309875.76,318562.22,327519.69,18562.22,150000.0,50000.0,True,3,False,4.0,None
+INV04,OK,Home down payment,2500000.0,60,500000.0,20000.0,6.36,1.2,0.16,800.0,1896036.14,2094998.62,2319772.43,-405001.38,500000.0,0.0,True,3,False,3.0,None
+INV05,OK,Child school fees,600000.0,48,100000.0,8000.0,6.36,1.2,0.16,160.0,524750.58,564839.08,608798.69,-35160.92,100000.0,40000.0,True,3,False,1.0,None
+INV06,OK,Retirement corpus,15000000.0,240,800000.0,15000.0,6.36,1.2,0.16,1280.0,6688148.21,10078823.52,15652309.18,-4921176.48,800000.0,0.0,True,3,False,12.0,None
+INV07,OK,Child higher education,12000000.0,144,1000000.0,40000.0,6.36,1.2,0.16,1600.0,8578094.47,10750703.67,13632116.2,-1249296.33,1000000.0,0.0,True,3,False,9.0,None
+INV08,OK,Start a business,5000000.0,36,200000.0,20000.0,6.36,1.2,0.16,320.0,977605.81,1032894.32,1092105.47,-3967105.68,200000.0,100000.0,True,3,False,1.5,None
+INV09,OK,Second home down payment,3000000.0,72,1500000.0,10000.0,6.36,1.2,0.16,2400.0,2630999.46,3068596.26,3585590.62,68596.26,1500000.0,600000.0,True,3,False,6.0,None
+INV10,OK,Early retirement fund,5000000.0,96,600000.0,25000.0,6.36,1.2,0.16,960.0,3533866.88,4114847.72,4817326.61,-885152.28,600000.0,0.0,True,3,False,7.0,None
+INV11,OK,Higher studies fund,400000.0,84,0.0,3000.0,6.4,1.6,0.37,0.0,284063.62,316865.56,354631.59,-83134.44,0.0,0.0,True,3,False,2.0,None
+INV12,OK,Retirement income reserve,4500000.0,36,4000000.0,0.0,6.32,1.4,0.24,9600.0,4418308.08,4832658.97,5284691.11,332658.97,4000000.0,800000.0,True,3,False,18.0,None
